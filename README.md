@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+:mailbox: How to reach me: duncank.njuguna@gmail.com
+<center>
+  <table>
+  <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=mugendinjue&count_private=true&show_icons=true&theme=dark&layout=compact" /></td>
+  </tr>
+  </table>
+</center>
+
 <!--
 **Dun-Njuguna/Dun-Njuguna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
