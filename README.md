@@ -5,7 +5,7 @@ I'm a passionate software engineer with a strong background in mobile developmen
 ## Skills at a Glance
 - **Programming Languages**: JavaScript, Python, Kotlin, SQL
 - **Frameworks & Libraries**: Flutter, FastAPI, Kotlin Multiplatform Mobile (KMM)
-- **Tools & Platforms**: Git, GitHub, VS Code, Docker, AWS, Terraform
+- **Tools & Platforms**: Docker, AWS, Terraform
 
 ## GitHub Stats
 <center>
