@@ -1,6 +1,14 @@
-## Hi there 👋
+# Hi there 👋 I'm Duncan Njuguna
 
-:mailbox: How to reach me: duncank.njuguna@gmail.com
+## About Me
+I'm a passionate software engineer with a strong background in mobile development. My current areas of focus include Python, Flutter, and cloud (DevOps and MLOps).
+
+## Skills at a Glance
+- **Programming Languages**: JavaScript, Python, Kotlin, SQL
+- **Frameworks & Libraries**: Flutter, FastAPI, Kotlin Multiplatform Mobile (KMM)
+- **Tools & Platforms**: Git, GitHub, VS Code, Docker, AWS, Terraform
+
+## GitHub Stats
 <center>
   <table>
   <tr>
@@ -9,17 +17,5 @@
   </table>
 </center>
 
-<!--
-**Dun-Njuguna/Dun-Njuguna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Get in Touch
+Feel free to reach out via email: **duncank.njuguna@gmail.com**. Let’s collaborate on something exciting!
