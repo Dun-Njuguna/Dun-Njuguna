@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Duncan Njuguna
 
-I'm a passionate software engineer with a strong background in mobile development. My current areas of focus include Python, Flutter, and cloud (DevOps and MLOps).
+I create mobile and web apps 💻📱 Right now, I'm tinkering with Python to solve all sorts of cool problems, crafting snappy, sharp interfaces with Flutter, and sprinkling some cloud wizardry with DevOps and MLOps to keep things running smoothly. Always building, always learning, and having a blast while doing it! ⚡🌐
 
 ## Skills at a Glance
 - **Programming Languages**: JavaScript, Python, Kotlin, SQL
