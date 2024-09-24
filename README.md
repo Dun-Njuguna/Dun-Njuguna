@@ -1,6 +1,5 @@
 # Hi there 👋 I'm Duncan Njuguna
 
-## About Me
 I'm a passionate software engineer with a strong background in mobile development. My current areas of focus include Python, Flutter, and cloud (DevOps and MLOps).
 
 ## Skills at a Glance
@@ -17,5 +16,4 @@ I'm a passionate software engineer with a strong background in mobile developmen
   </table>
 </center>
 
-## Get in Touch
 Feel free to reach out via email: **duncank.njuguna@gmail.com**. Let’s collaborate on something exciting!
