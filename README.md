@@ -10,5 +10,3 @@ I create mobile and web apps 💻📱 Right now, I'm tinkering with Python to so
   </tr>
   </table>
 </center>
-
-Feel free to reach out via email: **duncank.njuguna@gmail.com**. Let’s collaborate on something exciting!
