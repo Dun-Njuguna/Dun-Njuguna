@@ -1,6 +1,6 @@
 # Hi there 👋 
 
-I create mobile and web apps 💻📱 Right now, I'm tinkering with Python to solve all sorts of cool problems, crafting snappy, sharp interfaces with Flutter, and sprinkling some cloud wizardry with DevOps and MLOps to keep things running smoothly. Always building, always learning, and having a blast while doing it! ⚡🌐
+I create mobile and web apps 💻📱 Right now, I'm tinkering with Python, crafting snappy, sharp interfaces with Flutter, and sprinkling some cloud wizardry with DevOps and MLOps to keep things running smoothly. Always building, always learning, and having a blast while doing it! ⚡🌐
 
 <center>
   <table>
