@@ -1,6 +1,6 @@
-# Hi there 👋 I'm Duncan
+# Hi there 👋
 
-**DevOps Engineer** expanding into **MLOps**, bringing infrastructure and automation skills to machine learning.
+I'm a **DevOps Engineer** expanding into **MLOps**, bringing infrastructure and automation skills to machine learning.
 
 ### 🛠️ DevOps toolkit
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
